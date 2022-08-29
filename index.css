@@ -1,0 +1,18 @@
+     
+        .box-part{
+            background-color:white;
+            margin:30px 10px;
+            padding:50px 20px ;
+        }
+        .fa{
+            color: blue;
+        }
+
+        p{
+            font-size: 15px;
+            font-style: normal;
+        }
+     
+        div{
+            display: block;
+        }
